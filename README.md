@@ -3,7 +3,7 @@ First Class Challenge
 What did I DO?
 I fixed code to see semantic HTML elements.
 <br>
-The code now meets Accessibilty Standards.
+The code meets Accessibilty Standards.
 <br>
 I added a header and a footer to the code, the Title was also added within the code.
 <br>
