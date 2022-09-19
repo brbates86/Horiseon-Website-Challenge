@@ -1,5 +1,8 @@
 # Horiseon-Website-Challenge
-First Class Challenge http://127.0.0.1:5500/index.html
+First Class Challenge
+<br>
+Link to application: http://127.0.0.1:5500/index.html
+<br>
 What did I DO?
 <br>
 I fixed and consolidated code to see semantic HTML elements.
