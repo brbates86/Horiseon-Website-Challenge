@@ -1,7 +1,8 @@
 # Horiseon-Website-Challenge
 First Class Challenge
 What did I DO?
-I fixed code to see semantic HTML elements.
+<br>
+I fixed and consolidated code to see semantic HTML elements.
 <br>
 The code meets Accessibilty Standards.
 <br>
