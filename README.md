@@ -1,7 +1,7 @@
 # Horiseon-Website-Challenge
 First Class Challenge
 <br>
-Link to application: http://127.0.0.1:5500/index.html
+Link to application: https://brbates86.github.io/Horiseon-Website-Challenge/
 <br>
 What did I DO?
 <br>
